@@ -27,11 +27,14 @@ A curated list of awesome Public Zettelkastens/Seconds Brains/Digital Gardens
 | John Otander | https://johno.com/notes/ | https://twitter.com/4lpine |
 | Kevin Cunningham | https://www.kevincunningham.co.uk/wiki | https://www.twitter.com/dolearning |
 | Maggie Appleton | https://maggieappleton.com/garden | https://twitter.com/Mappletons |
+| Mathieu Dutour | https://mathieudutour.github.io/gatsby-digital-garden/ | https://twitter.com/mathieudutour|
 | Max Antonucci | https://max-antonucci.gitbook.io/study-notebook/ | https://twitter.com/Maxwell_Dev |
 | Maxime Vaillancourt | https://maximevaillancourt.com/notes | https://twitter.com/vaillancourtmax |
+| Mike Tannenbaum | https://tannenbaum.netlify.app/ | https://twitter.com/theroyaltbomb |
 | Nadia Eghbal | https://nadiaeghbal.com/notes/ | https://twitter.com/nayafia |
 | Neil Mather | https://commonplace.doubleloop.net/ ||
 | PhilJones | http://thoughtstorms.info/view/HelloWorld ||
+| Ryan Warner | https://ryan.warner.codes/notes | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari | https://notes.salman.io/ | https://twitter.com/daretorant |
 | Sam Marshall | https://notes.sjm.codes/ ||
 | Shawn Wang| https://www.swyx.io/writing | https://twitter.com/swyx |
