@@ -38,6 +38,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Nadia Eghbal | https://nadiaeghbal.com/notes/ | https://twitter.com/nayafia |
 | Neil Mather | https://commonplace.doubleloop.net/ ||
 | Phil Jones | http://thoughtstorms.info/view/HelloWorld ||
+|Rob Haisfield | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
 | Ryan Warner | https://ryan.warner.codes/notes | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari | https://notes.salman.io/ | https://twitter.com/daretorant |
 | Sam Marshall | https://notes.sjm.codes/ ||
