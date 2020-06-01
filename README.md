@@ -44,6 +44,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Scott Spence | https://scottspence.com/garden | https://twitter.com/spences10 |
 | Shawn Wang| https://www.swyx.io/writing | https://twitter.com/swyx |
 | Sridhar Ratnakumar | https://www.srid.ca/ | |
+| Stian Håklev | https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr | https://twitter.com/houshuang |
 | Tom Critchlow | https://tomcritchlow.com/wiki/ | https://twitter.com/tomcritchlow |
 | Ton Zĳlstra | https://www.zylstra.org/blog/wiki-frontpage/ | https://twitter.com/ton_zylstra |
 | Wayan Jimmy | https://notebook.wayanjimmy.xyz/ | https://twitter.com/wayanjimmy |
