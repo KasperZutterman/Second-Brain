@@ -8,6 +8,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Andrew Tang | https://tangdrew.com/notes | https://twitter.com/tangdrew/media |
 | Andy Matuschak | https://notes.andymatuschak.org/ | https://twitter.com/andy_matuschak |
 | Anne-Laure Le Cunff | https://www.mentalnodes.com/ | https://twitter.com/anthilemoon |
+| Anshul Khare | https://notes.anshulkhare.in/ | https://notes.anshulkhare.in/ |
 | Aravind Balla | https://notes.aravindballa.com/ | https://twitter.com/aravindballa |
 | Azlen Elza | https://notes.azlen.me/g3tibyfv/ | https://twitter.com/azlenelza |
 | Ben Robertson | https://benrobertson.io/notes | https://twitter.com/benrobertsonio |
