@@ -20,6 +20,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Dave Gifford | https://giffmex.org/publicdb/index.html | https://twitter.com/giffmex |
 | Derek Sivers | https://sivers.org/book | https://twitter.com/sivers |
 | D.S. Chapman | https://www.dschapman.com/notes | https://twitter.com/ds_chapman |
+| Edwin Wenink | https://www.edwinwenink.xyz/etc/blogroll/ ||
 || https://emsenn.net/ ||
 | Fran Salerno | https://frandsalerno.github.io/ ||
 | Gordon Brander | http://gordonbrander.com/pattern/ | https://twitter.com/gordonbrander |
