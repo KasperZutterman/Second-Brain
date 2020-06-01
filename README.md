@@ -53,6 +53,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Szymon Kaliski | https://szymonkaliski.com/notes/ | https://twitter.com/szymon_k |
 | Tom Critchlow | https://tomcritchlow.com/wiki/ | https://twitter.com/tomcritchlow |
 | Ton Zĳlstra | https://www.zylstra.org/blog/wiki-frontpage/ | https://twitter.com/ton_zylstra |
+| Visakan Veerasamy | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI | https://twitter.com/visakanv |
 | Wayan Jimmy | https://notebook.wayanjimmy.xyz/ | https://twitter.com/wayanjimmy |
 | Wess Daniels | https://nurselog.online/ | https://twitter.com/cwdaniels |
 || https://philosopher.life/ ||
