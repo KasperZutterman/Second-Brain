@@ -34,6 +34,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Markus | https://re1.dev/wiki/ ||
 | Mathieu Dutour | https://mathieudutour.github.io/gatsby-digital-garden/ | https://twitter.com/mathieudutour|
 | Max Antonucci | https://max-antonucci.gitbook.io/study-notebook/ | https://twitter.com/Maxwell_Dev |
+| Max Stoiber | https://notes.mxstbr.com/ | https://twitter.com/mxstbr |
 | Maxime Vaillancourt | https://maximevaillancourt.com/notes | https://twitter.com/vaillancourtmax |
 | Mike Tannenbaum | https://tannenbaum.netlify.app/ | https://twitter.com/theroyaltbomb |
 | Nadia Eghbal | https://nadiaeghbal.com/notes/ | https://twitter.com/nayafia |
