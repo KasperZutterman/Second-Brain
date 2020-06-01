@@ -36,6 +36,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Maxime Vaillancourt | https://maximevaillancourt.com/notes | https://twitter.com/vaillancourtmax |
 | Mike Tannenbaum | https://tannenbaum.netlify.app/ | https://twitter.com/theroyaltbomb |
 | Nadia Eghbal | https://nadiaeghbal.com/notes/ | https://twitter.com/nayafia |
+| Nagarjun Palavalli | https://nagarjun.co/pensees | https://twitter.com/palavalli |
 | Neil Mather | https://commonplace.doubleloop.net/ ||
 | Noah Trenaman | https://blog.noahtren.com/%F0%9F%92%AC/3acea2e1-0387-4c7d-83f4-12974323f8e6/ | https://twitter.com/noahtren |
 | Phil Jones | http://thoughtstorms.info/view/HelloWorld ||
