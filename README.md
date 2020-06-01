@@ -18,10 +18,12 @@ A curated list of awesome Public Zettelkastens/Seconds Brains/Digital Gardens
 | Ian Jones | https://www.ianjones.us/notes | https://twitter.com/_jonesian |
 | Jeremy Nixon | https://jeremynixon.github.io/ | |
 | Jethro Kuan | https://braindump.jethro.dev/ | https://twitter.com/jethroksy |
+| Joel Hooks | https://joelhooks.com/ | https://twitter.com/jhooks |
 | Kevin Cunningham | https://www.kevincunningham.co.uk/wiki | https://www.twitter.com/dolearning |
 | Max Antonucci | https://max-antonucci.gitbook.io/study-notebook/ | https://twitter.com/Maxwell_Dev |
 | Salman Ansari | https://notes.salman.io/ | https://twitter.com/daretorant |
 | Sridhar Ratnakumar | https://www.srid.ca/ | |
+| Tom Critchlow | https://tomcritchlow.com/wiki/ | https://twitter.com/tomcritchlow |
 || https://philosopher.life/ ||
 || https://sphygm.us/ ||
 || https://wiki.waifu.haus/ ||
