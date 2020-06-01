@@ -17,6 +17,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Chris Aldrich | https://tw.boffosocko.com/ | https://twitter.com/ChrisAldrich |
 | Chris Biscardi| https://www.christopherbiscardi.com/garden | https://twitter.com/chrisbiscardi |
 | Cosma Shalizi | http://bactra.org/notebooks/ | https://twitter.com/cshalizi |
+| Dave Gifford | https://giffmex.org/publicdb/index.html | https://twitter.com/giffmex |
 | Derek Sivers | https://sivers.org/book | https://twitter.com/sivers |
 | D.S. Chapman | https://www.dschapman.com/notes | https://twitter.com/ds_chapman |
 || https://emsenn.net/ ||
