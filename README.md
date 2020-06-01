@@ -22,6 +22,7 @@ A curated list of awesome Public Zettelkastens/Seconds Brains/Digital Gardens
 | Kevin Cunningham | https://www.kevincunningham.co.uk/wiki | https://www.twitter.com/dolearning |
 | Max Antonucci | https://max-antonucci.gitbook.io/study-notebook/ | https://twitter.com/Maxwell_Dev |
 | Salman Ansari | https://notes.salman.io/ | https://twitter.com/daretorant |
+| Shawn Swyx Wang| https://www.swyx.io/writing | https://twitter.com/swyx |
 | Sridhar Ratnakumar | https://www.srid.ca/ | |
 | Tom Critchlow | https://tomcritchlow.com/wiki/ | https://twitter.com/tomcritchlow |
 || https://philosopher.life/ ||
