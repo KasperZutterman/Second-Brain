@@ -1,5 +1,5 @@
 # Second-Brain
-A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / Digital Gardens 🌱
+A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 
 | Name Person | Second Brain | Twitter |
 | --- | --- | --- |
