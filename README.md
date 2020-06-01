@@ -51,3 +51,6 @@ A curated list of awesome Public Zettelkastens/Seconds Brains/Digital Gardens
 || https://sphygm.us/ ||
 || https://wiki.waifu.haus/ ||
 || https://lyz-code.github.io/blue-book/ ||
+
+# Additional resources:
+- Currated [list](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709) of Tools for Thought
