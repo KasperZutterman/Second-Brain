@@ -20,6 +20,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | D.S. Chapman | https://www.dschapman.com/notes | https://twitter.com/ds_chapman |
 || https://emsenn.net/ ||
 | Fran Salerno | https://frandsalerno.github.io/ ||
+| Gordon Brander | http://gordonbrander.com/pattern/ | https://twitter.com/gordonbrander |
 | Gwern Branwen | https://www.gwern.net/ | https://twitter.com/gwern |
 | Ian Jones | https://www.ianjones.us/notes | https://twitter.com/_jonesian |
 | Jeremy Nixon | https://jeremynixon.github.io/ | |
