@@ -35,7 +35,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / D
 | Mike Tannenbaum | https://tannenbaum.netlify.app/ | https://twitter.com/theroyaltbomb |
 | Nadia Eghbal | https://nadiaeghbal.com/notes/ | https://twitter.com/nayafia |
 | Neil Mather | https://commonplace.doubleloop.net/ ||
-| PhilJones | http://thoughtstorms.info/view/HelloWorld ||
+| Phil Jones | http://thoughtstorms.info/view/HelloWorld ||
 | Ryan Warner | https://ryan.warner.codes/notes | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari | https://notes.salman.io/ | https://twitter.com/daretorant |
 | Sam Marshall | https://notes.sjm.codes/ ||
