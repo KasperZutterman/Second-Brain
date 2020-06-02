@@ -37,7 +37,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Markus              | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour      | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
 | Max Antonucci       | https://max-antonucci.gitbook.io/study-notebook/                               | https://twitter.com/Maxwell_Dev     |
-| Max Holzheu         | https://digitalgarden.maxholzheu.com/                                          | https://twitter.com/maxholzheu
+| Max Holzheu         | https://digitalgarden.maxholzheu.com/                                          | https://twitter.com/maxholzheu      |
 | Max Stoiber         | https://notes.mxstbr.com/                                                      | https://twitter.com/mxstbr          |
 | Maxime Vaillancourt | https://maximevaillancourt.com/notes                                           | https://twitter.com/vaillancourtmax |
 | Mike Tannenbaum     | https://tannenbaum.netlify.app/                                                | https://twitter.com/theroyaltbomb   |
@@ -45,7 +45,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Nagarjun Palavalli  | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
 | Neil Mather         | https://commonplace.doubleloop.net/                                            |                                     |
 | Noah Trenaman       | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
-| Paul Scanlon         | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
+| Paul Scanlon         | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon  |
 | Phil Jones          | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
 | Prasanth Karri      | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Rasul Kireev        | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
@@ -61,6 +61,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Sridhar Ratnakumar  | https://www.srid.ca/                                                           |                                     |
 | Stian Håklev        | https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr                   | https://twitter.com/houshuang       |
 | Szymon Kaliski      | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
+| Thilo Maier         | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
 | Tom Critchlow       | https://tomcritchlow.com/wiki/                                                 | https://twitter.com/tomcritchlow    |
 | Ton Zĳlstra         | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Visakan Veerasamy   | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
