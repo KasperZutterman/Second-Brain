@@ -5,6 +5,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | --- | --- | --- |
 | Aengus McMillin | https://aengusmcmillin.com/brain | http://twitter.com/aengusmcmillin |
 | Alan Pestronk | https://neuromuscular.wustl.edu/alfindex.htm ||
+| Aleen | https://aleen42.github.io/PersonalWiki/ ||
 | Andrew Tang | https://tangdrew.com/notes | https://twitter.com/tangdrew/media |
 | Andy Matuschak | https://notes.andymatuschak.org/ | https://twitter.com/andy_matuschak |
 | Anne-Laure Le Cunff | https://www.mentalnodes.com/ | https://twitter.com/anthilemoon |
