@@ -49,7 +49,8 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Nagarjun Palavalli  | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
 | Neil Mather         | https://commonplace.doubleloop.net/                                            |                                     |
 | Noah Trenaman       | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
-| Paul Scanlon         | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon  |
+| Paul Copplestone    | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
+| Paul Scanlon        | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Phil Jones          | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
 | Prasanth Karri      | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Rasul Kireev        | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
