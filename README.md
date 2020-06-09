@@ -27,6 +27,8 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Gordon Brander      | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Gwern Branwen       | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
 | Ian Jones           | https://www.ianjones.us/notes                                                  | https://twitter.com/_jonesian       |
+| James Kolean        | https://jameskolean.tech/                                                      |                                     |
+| Jamis Charles       | https://jamischarles.com/                                                      | https://twitter.com/jamischarles    |
 | Jeremy Nixon        | https://jeremynixon.github.io/                                                 |                                     |
 | Jethro Kuan         | https://braindump.jethro.dev/                                                  | https://twitter.com/jethroksy       |
 | Joel Hooks          | https://joelhooks.com/                                                         | https://twitter.com/jhooks          |
@@ -34,6 +36,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Josh Buchea         | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
 | Kevin Cunningham    | https://www.kevincunningham.co.uk/wiki                                         | https://www.twitter.com/dolearning  |
 | Kahlil Corazo       | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
+| Lauro Silva         | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Maggie Appleton     | https://maggieappleton.com/garden                                              | https://twitter.com/Mappletons      |
 | Markus              | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour      | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
