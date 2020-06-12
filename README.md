@@ -48,6 +48,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Nadia Eghbal        | https://nadiaeghbal.com/notes/                                                 | https://twitter.com/nayafia         |
 | Nagarjun Palavalli  | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
 | Neil Mather         | https://commonplace.doubleloop.net/                                            |                                     |
+| Nikita Voloboev     | https://wiki.nikitavoloboev.xyz/                                               | https://twitter.com/nikitavoloboev  |
 | Noah Trenaman       | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
 | Paul Copplestone    | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon        | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
