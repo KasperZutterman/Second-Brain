@@ -30,6 +30,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | James Kolean        | https://jameskolean.tech/                                                      |                                     |
 | Jamis Charles       | https://jamischarles.com/                                                      | https://twitter.com/jamischarles    |
 | Jeremy Nixon        | https://jeremynixon.github.io/                                                 |                                     |
+| Jestem Króliczkiem  | https://beepb00p.xyz/exobrain/                                                 | https://twitter.com/karlicoss       |
 | Jethro Kuan         | https://braindump.jethro.dev/                                                  | https://twitter.com/jethroksy       |
 | Joel Hooks          | https://joelhooks.com/                                                         | https://twitter.com/jhooks          |
 | John Otander        | https://johno.com/notes/                                                       | https://twitter.com/4lpine          |
