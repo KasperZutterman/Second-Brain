@@ -79,6 +79,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                     | https://sphygm.us/                                                             |                                     |
 |                     | https://wiki.waifu.haus/                                                       |                                     |
 |                     | https://lyz-code.github.io/blue-book/                                          |                                     |
+| Sanyam Kapoor | https://www.sanyamkapoor.com/kb | https://twitter.com/activatedgeek
 
 # Additional resources:
 
