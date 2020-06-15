@@ -62,6 +62,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ryan Warner         | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari       | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
 | Sam Marshall        | https://notes.sjm.codes/                                                       |                                     |
+| Sanyam Kapoor       | https://www.sanyamkapoor.com/kb                                                | https://twitter.com/activatedgeek   |
 | Sarah Hibner        | http://meet-me-in.space/                                                       |                                     |
 | Scott Spence        | https://scottspence.com/garden                                                 | https://twitter.com/spences10       |
 | Sean Breckenridge   | https://exobrain.sean.fish/                                                    |                                     |
@@ -79,7 +80,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                     | https://sphygm.us/                                                             |                                     |
 |                     | https://wiki.waifu.haus/                                                       |                                     |
 |                     | https://lyz-code.github.io/blue-book/                                          |                                     |
-| Sanyam Kapoor | https://www.sanyamkapoor.com/kb | https://twitter.com/activatedgeek
 
 # Additional resources:
 
