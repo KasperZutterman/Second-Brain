@@ -22,7 +22,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Derek Sivers        | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | D.S. Chapman        | https://www.dschapman.com/notes                                                | https://twitter.com/ds_chapman      |
 | Edwin Wenink        | https://www.edwinwenink.xyz/etc/blogroll/                                      |                                     |
-|                     | https://emsenn.net/                                                            |                                     |
 | Fran Salerno        | https://frandsalerno.github.io/                                                |                                     |
 | Gordon Brander      | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Gwern Branwen       | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
@@ -76,6 +75,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Visakan Veerasamy   | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
 | Wayan Jimmy         | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
 | Wess Daniels        | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
+|                     | https://emsenn.net/                                                            |                                     |
 |                     | https://philosopher.life/                                                      |                                     |
 |                     | https://sphygm.us/                                                             |                                     |
 |                     | https://wiki.waifu.haus/                                                       |                                     |
