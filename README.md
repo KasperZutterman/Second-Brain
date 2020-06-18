@@ -50,6 +50,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Neil Mather         | https://commonplace.doubleloop.net/                                            |                                     |
 | Nikita Voloboev     | https://wiki.nikitavoloboev.xyz/                                               | https://twitter.com/nikitavoloboev  |
 | Noah Trenaman       | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
+| Rob Lanphier        | https://myndmess.miraheze.org/wiki/User:RobLa                                  | https://twitter.com/robla           |
 | Paul Copplestone    | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon        | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Phil Jones          | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
