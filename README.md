@@ -11,10 +11,11 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Anne-Laure Le Cunff | https://www.mentalnodes.com/                                                   | https://twitter.com/anthilemoon     |
 | Anshul Khare        | https://notes.anshulkhare.in/                                                  | https://twitter.com/anshul81        |
 | Aravind Balla       | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
-| Azer Koçulu          | https://github.com/azer/notebook                                              | 
+| Azer Koçulu         | https://github.com/azer/notebook                                               |                                     |
 | Azlen Elza          | https://notes.azlen.me/g3tibyfv/                                               | https://twitter.com/azlenelza       |
 | Ben Robertson       | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
 | Bill Seitz          | http://webseitz.fluxent.com/wiki/                                              |                                     |
+| Buster Benson       | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
 | Ceasar Bautista     | http://memex.cc/                                                               | https://twitter.com/Ceasar_Bautista |
 | Chris Aldrich       | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
 | Chris Biscardi      | https://www.christopherbiscardi.com/garden                                     | https://twitter.com/chrisbiscardi   |
@@ -56,6 +57,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Paul Scanlon        | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Pepe García         | https://braindump.pepegar.com/                                                 |                                     |
 | Phil Jones          | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
+| Piotr Wozniak       | https://supermemo.guru/wiki/Piotr_Wozniak                                      |                                     |
 | Prasanth Karri      | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Rasul Kireev        | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
 | Richard Haines      | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
