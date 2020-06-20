@@ -13,7 +13,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Aravind Balla         | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
 | Azer Koçulu           | https://github.com/azer/notebook                                               |                                     |
 | Azlen Elza            | https://notes.azlen.me/g3tibyfv/                                               | https://twitter.com/azlenelza       |
-| Cosma Rohilla Shalizi | http://bactra.org/notebooks/                                                   |                                     |
 | Ben Robertson         | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
@@ -22,6 +21,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
 | Chris Biscardi        | https://www.christopherbiscardi.com/garden                                     | https://twitter.com/chrisbiscardi   |
 | Cosma Shalizi         | http://bactra.org/notebooks/                                                   | https://twitter.com/cshalizi        |
+| Danny Yee             | http://danny.oz.au/                                                            | https://twitter.com/DannyYee        |
 | Dave Gifford          | https://giffmex.org/publicdb/index.html                                        | https://twitter.com/giffmex         |
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | D.S. Chapman          | https://www.dschapman.com/notes                                                | https://twitter.com/ds_chapman      |
