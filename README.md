@@ -81,6 +81,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Visakan Veerasamy   | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
 | Wayan Jimmy         | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
 | Wess Daniels        | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
+| Winnie Lim          | https://winnielim.org/journal/                                                 |                                     |
 |                     | https://emsenn.net/                                                            |                                     |
 |                     | https://philosopher.life/                                                      |                                     |
 |                     | https://sphygm.us/                                                             |                                     |
