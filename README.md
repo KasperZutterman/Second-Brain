@@ -4,6 +4,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 
 | Name Person           | Second Brain                                                                   | Twitter                             |
 | -------------------   | ------------------------------------------------------------------------------ | ----------------------------------- |
+| Aaron Parecki         | https://aaronparecki.com/                                                      | https://twitter.com/aaronpk         |
 | Aengus McMillin       | https://aengusmcmillin.com/brain                                               | http://twitter.com/aengusmcmillin   |
 | Alan Pestronk         | https://neuromuscular.wustl.edu/alfindex.htm                                   |                                     |
 | Anand Sharma          | http://aprilzero.com/                                                          | https://twitter.com/aprilzero       |
@@ -33,6 +34,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ian Jones             | https://www.ianjones.us/notes                                                  | https://twitter.com/_jonesian       |
 | James Kolean          | https://jameskolean.tech/                                                      |                                     |
 | Jamis Charles         | https://jamischarles.com/                                                      | https://twitter.com/jamischarles    |
+| Jeremy Keith          | https://adactio.com/                                                           | https://twitter.com/adactio         |
 | Jeremy Nixon          | https://jeremynixon.github.io/                                                 |                                     |
 | Jestem Króliczkiem    | https://beepb00p.xyz/exobrain/                                                 | https://twitter.com/karlicoss       |
 | Jethro Kuan           | https://braindump.jethro.dev/                                                  | https://twitter.com/jethroksy       |
