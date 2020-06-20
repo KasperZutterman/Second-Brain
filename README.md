@@ -54,6 +54,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Rob Lanphier        | https://myndmess.miraheze.org/wiki/User:RobLa                                  | https://twitter.com/robla           |
 | Paul Copplestone    | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon        | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
+| Pepe García         | https://braindump.pepegar.com/                                                 |                                     |
 | Phil Jones          | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
 | Prasanth Karri      | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Rasul Kireev        | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
