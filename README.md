@@ -63,6 +63,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Richard Haines      | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield       | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
 | Rosie Campbell      | https://rosie.camp/notes                                                       | https://twitter.com/RosieCampbell   |
+| Ryan Dawidjan       | https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4           |                                     |
 | Ryan Warner         | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari       | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
 | Sam Marshall        | https://notes.sjm.codes/                                                       |                                     |
@@ -85,6 +86,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                     | https://sphygm.us/                                                             |                                     |
 |                     | https://wiki.waifu.haus/                                                       |                                     |
 |                     | https://lyz-code.github.io/blue-book/                                          |                                     |
+|                     | https://webring.xxiivv.com/                                                    |                                     |
 
 # Additional resources:
 
