@@ -60,7 +60,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Rasul Kireev        | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
 | Richard Haines      | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield       | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
-| Rosie Campbell      | https://rosiecampbell.github.io/notes                                          | https://twitter.com/RosieCampbell   |
+| Rosie Campbell      | https://rosie.camp/notes                                                       | https://twitter.com/RosieCampbell   |
 | Ryan Warner         | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari       | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
 | Sam Marshall        | https://notes.sjm.codes/                                                       |                                     |
