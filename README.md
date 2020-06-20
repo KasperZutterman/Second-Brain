@@ -49,6 +49,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Max Holzheu           | https://digitalgarden.maxholzheu.com/                                          | https://twitter.com/maxholzheu      |
 | Max Stoiber           | https://notes.mxstbr.com/                                                      | https://twitter.com/mxstbr          |
 | Maxime Vaillancourt   | https://maximevaillancourt.com/notes                                           | https://twitter.com/vaillancourtmax |
+| Michael E. Karpeles   | https://mek.fyi/                                                               | https://twitter.com/mekarpeles      |
 | Mike Tannenbaum       | https://tannenbaum.netlify.app/                                                | https://twitter.com/theroyaltbomb   |
 | Nadia Eghbal          | https://nadiaeghbal.com/notes/                                                 | https://twitter.com/nayafia         |
 | Nagarjun Palavalli    | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
