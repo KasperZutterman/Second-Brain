@@ -98,7 +98,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                       | https://wiki.waifu.haus/                                                       |                                     |
 |                       | https://lyz-code.github.io/blue-book/                                          |                                     |
 |                       | https://webring.xxiivv.com/                                                    |                                     |
-
+|                       | http://okmij.org/ftp/                                                          |                                     |
 # Additional resources:
 
 - Curated [list](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709) of Tools for Thought by [@Steve_Yang331](https://twitter.com/Steve_Yang331)
