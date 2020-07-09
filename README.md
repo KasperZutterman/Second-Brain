@@ -18,6 +18,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ben Robertson         | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
+| Bruno Henriques       | https://bphenriques.github.io/knowledge-base/                                  |                                     |
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
 | Ceasar Bautista       | http://memex.cc/                                                               | https://twitter.com/Ceasar_Bautista |
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
