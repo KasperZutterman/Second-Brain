@@ -83,6 +83,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Shawn Wang            | https://www.swyx.io/writing                                                    | https://twitter.com/swyx            |
 | Shreyas Minocha       | https://wiki.shreyasminocha.me                                                 |                                     |
 | Sridhar Ratnakumar    | https://www.srid.ca/                                                           |                                     |
+| Steve Dondley         | https://steve.dondley.com/notes/                                               | https://twitter.com/steve_dondley   |
 | Stian Håklev          | https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr                   | https://twitter.com/houshuang       |
 | Szymon Kaliski        | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
 | Thilo Maier           | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
