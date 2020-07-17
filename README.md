@@ -31,6 +31,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | D.S. Chapman          | https://www.dschapman.com/notes                                                | https://twitter.com/ds_chapman      |
 | Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/                                      |                                     |
+| Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Gwern Branwen         | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
