@@ -25,6 +25,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
 | Chris Biscardi        | https://www.christopherbiscardi.com/garden                                     | https://twitter.com/chrisbiscardi   |
 | Cosma Shalizi         | http://bactra.org/notebooks/                                                   | https://twitter.com/cshalizi        |
+| Cristian Rojas        | https://notes.crisrojas.com                                                    |                                     |
 | Danny Yee             | http://danny.oz.au/                                                            | https://twitter.com/DannyYee        |
 | Dave Gifford          | https://giffmex.org/publicdb/index.html                                        | https://twitter.com/giffmex         |
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
