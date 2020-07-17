@@ -93,6 +93,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ton Zĳlstra           | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Visakan Veerasamy     | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
 | Wayan Jimmy           | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
+| Waylon Walker         | https://waylonwalker.com/notes                                                 | https://twitter.com/_waylonwalker   |
 | Wess Daniels          | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
 | Winnie Lim            | https://winnielim.org/journal/                                                 |                                     |
 |                       | https://emsenn.net/                                                            |                                     |
