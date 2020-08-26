@@ -37,6 +37,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Guía Carmona          | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/guiacarmona1    |
 | Gwern Branwen         | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
+| Hamel Husain          | https://notes.hamel.dev/                                                       | https://twitter.com/HamelHusain     |
 | Harish Chandra Thuwal | https://github.com/hthuwal/notes                                               |                                     |
 | Henrique Dias         | https://notes.hacdias.com/                                                     | https://twitter.com/hacdias         |
 | Ian Jones             | https://www.ianjones.us/notes                                                  | https://twitter.com/_jonesian       |
