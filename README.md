@@ -4,6 +4,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 
 | Name Person           | Second Brain                                                                   | Twitter                             |
 | -------------------   | ------------------------------------------------------------------------------ | ----------------------------------- |
+| Andy Byers            | https://notes.ajb.app/                                                         | https://twitter.com/AndyByers21.    |
 | Aaron Parecki         | https://aaronparecki.com/                                                      | https://twitter.com/aaronpk         |
 | Aengus McMillin       | https://aengusmcmillin.com/brain                                               | http://twitter.com/aengusmcmillin   |
 | Alan Pestronk         | https://neuromuscular.wustl.edu/alfindex.htm                                   |                                     |
