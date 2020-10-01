@@ -17,6 +17,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Azer Koçulu           | https://github.com/azer/notebook                                               |                                     |
 | Azlen Elza            | https://notes.azlen.me/g3tibyfv/                                               | https://twitter.com/azlenelza       |
 | Ben Robertson         | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
+| Benjamin Lannon       | https://lannonbr.com/garden                                                    | https://twitter.com/lannonbr        |
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                              |                                     |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
