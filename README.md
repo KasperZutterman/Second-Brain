@@ -32,6 +32,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Dave Gifford          | https://giffmex.org/publicdb/index.html                                        | https://twitter.com/giffmex         |
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | D.S. Chapman          | https://www.dschapman.com/notes                                                | https://twitter.com/ds_chapman      |
+| Devine Lu Linvega     | https://wiki.xxiivv.com                                                        |                                     |
 | Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/                                      |                                     |
 | Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
