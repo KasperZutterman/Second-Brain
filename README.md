@@ -23,6 +23,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
 | Bruno Henriques       | https://bphenriques.github.io/knowledge-base/                                  |                                     |
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
+| Calvin Bui            | https://calvin.readthedocs.io/en/latest/                                       |                                     |
 | Ceasar Bautista       | http://memex.cc/                                                               | https://twitter.com/Ceasar_Bautista |
 | Chinarut Ruangchotvit | http://autobiography.chinarut.com                                              | https://twitter.com/chinarut        |
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
