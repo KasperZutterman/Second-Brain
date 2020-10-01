@@ -107,6 +107,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Waylon Walker         | https://waylonwalker.com/notes                                                 | https://twitter.com/_waylonwalker   |
 | Wess Daniels          | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
 | Winnie Lim            | https://winnielim.org/journal/                                                 |                                     |
+| Yusuf Parak           | https://ycp.so/                                                                | https://twitter.com/ycpso           |
 |                       | https://emsenn.net/                                                            |                                     |
 |                       | https://philosopher.life/                                                      |                                     |
 |                       | https://sphygm.us/                                                             |                                     |
