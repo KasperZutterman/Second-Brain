@@ -60,6 +60,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Kevin Cunningham      | https://www.kevincunningham.co.uk/wiki                                         | https://www.twitter.com/dolearning  |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
+| Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
 | Maggie Appleton       | https://maggieappleton.com/garden                                              | https://twitter.com/Mappletons      |
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour        | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
