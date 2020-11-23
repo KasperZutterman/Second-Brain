@@ -61,6 +61,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
+|Luciano Strika         | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
 | Maggie Appleton       | https://maggieappleton.com/garden                                              | https://twitter.com/Mappletons      |
 | Magnus Aasrud         | https://www.kmaasrud.com/brain/                                                | https://twitter.com/kmaasrud        |
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
@@ -124,7 +125,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                       | https://webring.xxiivv.com/                                                    |                                     |
 |                       | http://okmij.org/ftp/                                                          |                                     |
 |                       | https://anagora.org/                                                           | https://twitter.com/flancian        |
-|Luciano Strika         | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
 
 # Additional resources:
 
