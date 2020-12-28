@@ -85,6 +85,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Pepe García           | https://braindump.pepegar.com/                                                 |                                     |
 | Phil Jones            | http://thoughtstorms.info/view/HelloWorld                                      |                                     |
 | Piero Scaruffi        | https://www.scaruffi.com/index.html                                            | http://twitter.com/pscaruffi        |
+| Piotr Gaczkowski      | https://garden.doomhammer.info                                                 | https://twitter.com/DoomHammerNG    |
 | Piotr Wozniak         | https://supermemo.guru/wiki/Piotr_Wozniak                                      |                                     |
 | Prasanth Karri        | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Rasul Kireev          | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
