@@ -76,6 +76,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Michael E. Karpeles   | https://mek.fyi/                                                               | https://twitter.com/mekarpeles      |
 | Mike Tannenbaum       | https://tannenbaum.netlify.app/                                                | https://twitter.com/theroyaltbomb   |
 | Milkii Brewster       | https://wiki.thingsandstuff.org/Main_Page                                      |                                     |
+| Mitch Wagner          | http://mitchwagner.com/                                                        | https://twitter.com/mitchwagner     |
 | Nadia Eghbal          | https://nadiaeghbal.com/notes/                                                 | https://twitter.com/nayafia         |
 | Nagarjun Palavalli    | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
 | Neil Mather           | https://commonplace.doubleloop.net/                                            |                                     |
