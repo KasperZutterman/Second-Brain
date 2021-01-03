@@ -96,6 +96,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Richard Haines        | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield         | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
 | Roman Rey             | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/derrey          |
+| Rosano                | https://rosano.hmm.garden                                                      | https://twitter.com/rosano          |
 | Rosie Campbell        | https://rosiecampbell.me/notes                                                 | https://twitter.com/RosieCampbell   |
 | Ryan Dawidjan         | https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4           |                                     |
 | Ryan Warner           | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
