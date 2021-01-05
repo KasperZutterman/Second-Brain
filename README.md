@@ -21,6 +21,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Benjamin Lannon       | https://lannonbr.com/garden                                                    | https://twitter.com/lannonbr        |
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                              |                                     |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
+| Binny V A             | https://notes.binnyva.com/                                                     | https://twitter.com/binnyva         |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
 | Bruno Henriques       | https://bphenriques.github.io/knowledge-base/                                  |                                     |
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
@@ -116,7 +117,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Stian Håklev          | https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr                   | https://twitter.com/houshuang       |
 | Szymon Kaliski        | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
 | Thilo Maier           | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
-| Tymon Zaniewski       | garden.tymon-zaniewski.xyz                                                     |                                     |
+| Tymon Zaniewski       | http://garden.tymon-zaniewski.xyz                                              |                                     |
 | Tom Critchlow         | https://tomcritchlow.com/wiki/                                                 | https://twitter.com/tomcritchlow    |
 | Ton Zĳlstra           | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Visakan Veerasamy     | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
