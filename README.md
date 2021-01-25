@@ -61,7 +61,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | John Otander          | https://johno.com/notes/                                                       | https://twitter.com/4lpine          |
 | John Walker           | http://fourmilab.ch/                                                           | https://twitter.com/fourmilab       |
 | Josh Buchea           | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
-| Kevin Cunningham      | https://www.kevincunningham.co.uk/wiki                                         | https://www.twitter.com/dolearning  |
+| Kevin Cunningham      | https://garden.kevincunningham.co.uk                                         | https://www.twitter.com/dolearning  |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
