@@ -48,6 +48,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Hamel Husain          | https://notes.hamel.dev/                                                       | https://twitter.com/HamelHusain     |
 | Harish Chandra Thuwal | https://github.com/hthuwal/notes                                               |                                     |
 | Henrique Dias         | https://notes.hacdias.com/                                                     | https://twitter.com/hacdias         |
+| Hiran Venugopalan     | https://notes.hiran.in/                                                        | https://twitter.com/hfactor         |
 | Ian Jones             | https://www.ianjones.us/notes                                                  | https://twitter.com/_jonesian       |
 | Jacob Chvatal         | https://wiki.chvatal.com/                                                      | https://twitter.com/jakechvatal     |
 | James Kolean          | https://jameskolean.tech/                                                      |                                     |
