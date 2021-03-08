@@ -101,6 +101,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Roman Rey             | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/derrey          |
 | Rosano                | https://rosano.hmm.garden                                                      | https://twitter.com/rosano          |
 | Rosie Campbell        | https://rosiecampbell.me/notes                                                 | https://twitter.com/RosieCampbell   |
+| Rui Vieira            | https://ruivieira.dev                                                          | https://twitter.com/ruimvieira      |
 | Ryan Dawidjan         | https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4           |                                     |
 | Ryan Warner           | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
 | Salman Ansari         | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
