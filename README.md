@@ -100,7 +100,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Rob Haisfield         | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
 | Roman Rey             | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/derrey          |
 | Rosano                | https://rosano.hmm.garden                                                      | https://twitter.com/rosano          |
-| Rosie Campbell        | https://rosiecampbell.me/notes                                                 | https://twitter.com/RosieCampbell   |
+| Rosie Campbell        | https://notes.rosiecampbell.me/                                                | https://twitter.com/RosieCampbell   |
 | Rui Vieira            | https://ruivieira.dev                                                          | https://twitter.com/ruimvieira      |
 | Ryan Dawidjan         | https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4           |                                     |
 | Ryan Warner           | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
@@ -121,7 +121,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Szymon Kaliski        | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
 | Thilo Maier           | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
 | Tymon Zaniewski       | http://garden.tymon-zaniewski.xyz                                              |                                     |
-| Todd Grotenhuis		    | https://blog.grotenhuis.info/digital-garden/									                 | https://twitter.com/toddgrotenhuis  |
+| Todd Grotenhuis       | https://blog.grotenhuis.info/digital-garden/                                   | https://twitter.com/toddgrotenhuis  |
 | Tom Critchlow         | https://tomcritchlow.com/wiki/                                                 | https://twitter.com/tomcritchlow    |
 | Ton Zĳlstra           | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Visakan Veerasamy     | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
