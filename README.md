@@ -55,6 +55,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Jacob Chvatal         | https://wiki.chvatal.com/                                                      | https://twitter.com/jakechvatal     |
 | James Kolean          | https://jameskolean.tech/                                                      |                                     |
 | Jamis Charles         | https://jamischarles.com/                                                      | https://twitter.com/jamischarles    |
+| Jani Eväkallio        | https://jevakallio.github.io/notes/                                            | https://twitter.com/jevakallio      |
 | Jeremy Keith          | https://adactio.com/                                                           | https://twitter.com/adactio         |
 | Jeremy Nixon          | https://jeremynixon.github.io/                                                 |                                     |
 | Jerry Michalski       | https://www.jerrysbrain.com/                                                   | https://twitter.com/jerrymichalski  |
