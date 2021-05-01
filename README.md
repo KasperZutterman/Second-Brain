@@ -70,6 +70,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
 | Luciano Strika        | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
+| Lyz                   | https://lyz-code.github.io/blue-book/                                          |                                     |
 | Maggie Appleton       | https://maggieappleton.com/garden                                              | https://twitter.com/Mappletons      |
 | Magnus Aasrud         | https://www.kmaasrud.com/brain/                                                | https://twitter.com/kmaasrud        |
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
@@ -138,7 +139,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                       | https://philosopher.life/                                                      |                                     |
 |                       | https://sphygm.us/                                                             |                                     |
 |                       | https://wiki.waifu.haus/                                                       |                                     |
-|                       | https://lyz-code.github.io/blue-book/                                          |                                     |
 |                       | https://webring.xxiivv.com/                                                    |                                     |
 |                       | http://okmij.org/ftp/                                                          |                                     |
 |                       | https://anagora.org/                                                           | https://twitter.com/flancian        |
