@@ -45,6 +45,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
 | Gadzhi Kharkharov     | https://notes.kkga.me/                                                         | https://twitter.com/kkga_           |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
+| Guilherme Carreiro    | https://karreiro.com/wiki/                                                     | https://twitter.com/karreiro_       |
 | Guía Carmona          | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/guiacarmona1    |
 | Gwern Branwen         | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
 | Hamel Husain          | https://notes.hamel.dev/                                                       | https://twitter.com/HamelHusain     |
