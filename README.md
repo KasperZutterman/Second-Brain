@@ -69,6 +69,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Kevin Cunningham      | https://garden.kevincunningham.co.uk                                           | https://www.twitter.com/dolearning  |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
+|                       | https://lateral.wiki/                                                          |                                     |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
 | Luciano Strika        | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
 | Lyz                   | https://lyz-code.github.io/blue-book/                                          |                                     |
