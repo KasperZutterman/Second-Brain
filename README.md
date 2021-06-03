@@ -31,6 +31,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Chinarut Ruangchotvit | http://autobiography.chinarut.com                                              | https://twitter.com/chinarut        |
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
 | Chris Biscardi        | https://www.christopherbiscardi.com/garden                                     | https://twitter.com/chrisbiscardi   |
+| Clinton Boys          | https://www.mtsolitary.com/                                                    | https://twitter.com/psephologue     |
 | Cosma Shalizi         | http://bactra.org/notebooks/                                                   | https://twitter.com/cshalizi        |
 | Cristian Rojas        | https://notes.crisrojas.com                                                    |                                     |
 | Danny Yee             | http://danny.oz.au/                                                            | https://twitter.com/DannyYee        |
