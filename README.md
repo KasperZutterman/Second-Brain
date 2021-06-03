@@ -94,7 +94,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Nikita Voloboev       | https://wiki.nikitavoloboev.xyz/                                               | https://twitter.com/nikitavoloboev  |
 | Noah Trenaman         | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
 | Oshyan Greene         | https://garden.oshyan.com/                                                     | https://twitter.com/ogreenius       |
-| Rob Lanphier          | https://myndmess.miraheze.org/wiki/User:RobLa                                  | https://twitter.com/robla           |
 | Paul Copplestone      | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon          | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Pepe García           | https://braindump.pepegar.com/                                                 |                                     |
@@ -107,6 +106,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Raphael Sprenger      | https://garden.raphaelsprenger.de/                                             |                                     |
 | Richard Haines        | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield         | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
+| Rob Lanphier          | https://myndmess.miraheze.org/wiki/User:RobLa                                  | https://twitter.com/robla           |
 | Roman Rey             | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/derrey          |
 | Rosano                | https://rosano.hmm.garden                                                      | https://twitter.com/rosano          |
 | Rosie Campbell        | https://notes.rosiecampbell.me/                                                | https://twitter.com/RosieCampbell   |
