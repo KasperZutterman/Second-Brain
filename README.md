@@ -80,6 +80,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Magnus Aasrud         | https://www.kmaasrud.com/brain/                                                | https://twitter.com/kmaasrud        |
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour        | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
+| Matt                  | https://matt.roam.garden/                                                      |                                     |
 | Max Antonucci         | https://max-antonucci.gitbook.io/study-notebook/                               | https://twitter.com/Maxwell_Dev     |
 | Max Holzheu           | https://digitalgarden.maxholzheu.com/                                          | https://twitter.com/maxholzheu      |
 | Max Stoiber           | https://notes.mxstbr.com/                                                      | https://twitter.com/mxstbr          |
