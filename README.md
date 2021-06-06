@@ -15,6 +15,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Anshul Khare          | https://notes.anshulkhare.in/                                                  | https://twitter.com/anshul81        |
 | Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
 | Aravind Balla         | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
+| Arne Bahlo            | https://notes.arne.me                                                          | https://twitter.com/arnebahlo       |
 | Azer Koçulu           | https://github.com/azer/notebook                                               |                                     |
 | Azlen Elza            | https://notes.azlen.me/g3tibyfv/                                               | https://twitter.com/azlenelza       |
 | Ben Robertson         | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
