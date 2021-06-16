@@ -36,6 +36,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Clinton Boys          | https://www.mtsolitary.com/                                                    | https://twitter.com/psephologue     |
 | Cosma Shalizi         | http://bactra.org/notebooks/                                                   | https://twitter.com/cshalizi        |
 | Cristian Rojas        | https://notes.crisrojas.com                                                    |                                     |
+| Daniel Mathiot        | https://notes.danielmathiot.tech                                               |                                     |
 | Danny Yee             | http://danny.oz.au/                                                            | https://twitter.com/DannyYee        |
 | Dave Gifford          | https://giffmex.org/publicdb/index.html                                        | https://twitter.com/giffmex         |
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
