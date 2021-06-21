@@ -100,6 +100,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Noah Trenaman         | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
 | Oshyan Greene         | https://garden.oshyan.com/                                                     | https://twitter.com/ogreenius       |
 | Paul Batchelor        | https://pbat.ch/wiki/                                                          |                                     |
+| Paul Bricman          | https://paulbricman.com/secondbrain/                                           |                                     |
 | Paul Copplestone      | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon          | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Pepe García           | https://braindump.pepegar.com/                                                 |                                     |
