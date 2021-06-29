@@ -12,6 +12,8 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Andrew Tang           | https://tangdrew.com/notes                                                     | https://twitter.com/tangdrew/media  |
 | Andy Matuschak        | https://notes.andymatuschak.org/                                               | https://twitter.com/andy_matuschak  |
 | Anne-Laure Le Cunff   | https://www.mentalnodes.com/                                                   | https://twitter.com/anthilemoon     |
+| Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   | 
+| Anthony Amar          | https://garden.anthonyamar.fr/                                                 |                                     |
 | Anshul Khare          | https://notes.anshulkhare.in/                                                  | https://twitter.com/anshul81        |
 | Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
 | Aravind Balla         | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
@@ -23,6 +25,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                              |                                     |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Binny V A             | https://notes.binnyva.com/                                                     | https://twitter.com/binnyva         |
+| Bryan Jenks           | https://publish.obsidian.md/bryan-jenks/INDEX                                  | https://twitter.com/tallguyjenks    | 
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
 | Bruno Henriques       | https://bphenriques.github.io/knowledge-base/                                  |                                     |
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
@@ -71,6 +74,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Joel Hooks            | https://joelhooks.com/                                                         | https://twitter.com/jhooks          |
 | John Otander          | https://johno.com/notes/                                                       | https://twitter.com/4lpine          |
 | John Walker           | http://fourmilab.ch/                                                           | https://twitter.com/fourmilab       |
+| Joschua               | https://joschuasgarden.com/                                                    | https://twitter.com/selfire1        |
 | Josh Buchea           | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
 | Kevin Cunningham      | https://garden.kevincunningham.co.uk                                           | https://www.twitter.com/dolearning  |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
@@ -124,6 +128,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Salman Ansari         | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
 | Santhosh Thottingal   | https://docs.thottingal.in/                                                    | https://twitter.com/santhoshtr/     |
 | Sam Marshall          | https://notes.sjm.codes/                                                       |                                     |
+| Santi Younger         | https://notes.santiyounger.com/                                                |                                     |
 | Sanyam Kapoor         | https://www.sanyamkapoor.com/kb                                                | https://twitter.com/activatedgeek   |
 | Sarah Hibner          | http://meet-me-in.space/                                                       |                                     |
 | Scott Spence          | https://scottspence.com/garden                                                 | https://twitter.com/spences10       |
