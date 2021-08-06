@@ -4,6 +4,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 
 | Name Person           | Second Brain                                                                   | Twitter                             |
 | -------------------   | ------------------------------------------------------------------------------ | ----------------------------------- |
+| Alex Bilson           | https://alexbilson.dev/                                                        |                                     |
 | Aaron Parecki         | https://aaronparecki.com/                                                      | https://twitter.com/aaronpk         |
 | Andy Byers            | https://notes.ajb.app/                                                         | https://twitter.com/AndyByers21     |
 | Aengus McMillin       | https://aengusmcmillin.com/brain                                               | http://twitter.com/aengusmcmillin   |
@@ -12,7 +13,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Andrew Tang           | https://tangdrew.com/notes                                                     | https://twitter.com/tangdrew/media  |
 | Andy Matuschak        | https://notes.andymatuschak.org/                                               | https://twitter.com/andy_matuschak  |
 | Anne-Laure Le Cunff   | https://www.mentalnodes.com/                                                   | https://twitter.com/anthilemoon     |
-| Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   | 
+| Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   |
 | Anthony Amar          | https://garden.anthonyamar.fr/                                                 |                                     |
 | Anshul Khare          | https://notes.anshulkhare.in/                                                  | https://twitter.com/anshul81        |
 | Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
@@ -25,7 +26,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                              |                                     |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Binny V A             | https://notes.binnyva.com/                                                     | https://twitter.com/binnyva         |
-| Bryan Jenks           | https://publish.obsidian.md/bryan-jenks/INDEX                                  | https://twitter.com/tallguyjenks    | 
+| Bryan Jenks           | https://publish.obsidian.md/bryan-jenks/INDEX                                  | https://twitter.com/tallguyjenks    |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
 | Bruno Henriques       | https://bphenriques.github.io/knowledge-base/                                  |                                     |
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
