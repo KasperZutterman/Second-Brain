@@ -97,6 +97,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Piotr Gaczkowski      | https://garden.doomhammer.info                                                 | https://twitter.com/DoomHammerNG    |
 | Piotr Wozniak         | https://supermemo.guru/wiki/Piotr_Wozniak                                      |                                     |
 | Prasanth Karri        | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
+| Rahul Rajeev          | https://garden.rahulrajeev.net/                                                | https://twitter.com/rahulrajeeev    |
 | Rasul Kireev          | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
 | Richard Haines        | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield         | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
