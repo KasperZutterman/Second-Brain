@@ -32,7 +32,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Buster Benson         | https://busterbenson.com/piles/                                                | https://twitter.com/buster          |
 | Calvin Bui            | https://calvin.readthedocs.io/en/latest/                                       |                                     |
 | Ceasar Bautista       | http://memex.cc/                                                               | https://twitter.com/Ceasar_Bautista |
-| Charlie Trochlil      | https://blog.charlietrochlil.com/                                              | https://twitter.com/rhymeswithvocal |
+| Charlie Trochlil      | https://garden.charlietrochlil.com/                                            | https://twitter.com/rhymeswithvocal |
 | Chase McCoy           | https://chasem.co/notes/                                                       | https://twitter.com/chase_mccoy     |
 | Chinarut Ruangchotvit | http://autobiography.chinarut.com                                              | https://twitter.com/chinarut        |
 | Chris Aldrich         | https://tw.boffosocko.com/                                                     | https://twitter.com/ChrisAldrich    |
@@ -43,7 +43,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | D.S. Chapman          | https://www.dschapman.com/notes                                                | https://twitter.com/ds_chapman      |
 | Daniel Mathiot        | https://notes.danielmathiot.tech                                               |                                     |
 | Danny Yee             | http://danny.oz.au/                                                            | https://twitter.com/DannyYee        |
-| Dave Gifford          | https://giffmex.org/publicdb/index.html                                        | https://twitter.com/giffmex         |
+| Dave Gifford          | https://giffmex.org/Welcome.html                                               | https://twitter.com/giffmex         |
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | Devine Lu Linvega     | https://wiki.xxiivv.com                                                        |                                     |
 | E. Ferreira           | https://github.com/slowernews/notebook                                         |                                     |
@@ -51,7 +51,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Elias Granja          | https://wiki.anarchist.work/                                                   |                                     |
 | Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
-| Gadzhi Kharkharov     | https://notes.kkga.me/                                                         | https://twitter.com/kkga_           |
+| Gadzhi Kharkharov     | https://kkga.me/tags/note                                                      | https://twitter.com/kkga_           |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Greaby                | https://greaby.github.io/galaxie-gd/                                           | https://twitter.com/greaby_         |
 | Guilherme Carreiro    | https://karreiro.com/wiki/                                                     | https://twitter.com/karreiro_       |
@@ -63,7 +63,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Hiran Venugopalan     | https://notes.hiran.in/                                                        | https://twitter.com/hfactor         |
 | Hrishikesh Bhaskaran  | https://wiki.stultus.in                                                        | https://twitter.com/_stultus        |
 | Ian Jones             | https://www.ianjones.us/notes                                                  | https://twitter.com/_jonesian       |
-| Jacob Chvatal         | https://wiki.chvatal.com/                                                      | https://twitter.com/jakechvatal     |
+| Jacob Chvatal         | https://wiki.jacob.chvatal.com/                                                | https://twitter.com/jakechvatal     |
 | James Kolean          | https://jameskolean.tech/                                                      |                                     |
 | Jamis Charles         | https://jamischarles.com/                                                      | https://twitter.com/jamischarles    |
 | Jani Eväkallio        | https://jevakallio.github.io/notes/                                            | https://twitter.com/jevakallio      |
