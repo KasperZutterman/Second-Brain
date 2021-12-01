@@ -16,6 +16,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Anshul Khare          | https://anshulkhare.in/                                                        | https://twitter.com/_anshulkhare    |
 | Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   |
 | Anthony Amar          | https://garden.anthonyamar.fr/                                                 |                                     |
+| Anton Emelyanov       | https://wiki.ainzzorl.lol/                                                     |                                     |
 | Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
 | Aravind Balla         | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
 | Arne Bahlo            | https://notes.arne.me                                                          | https://twitter.com/arnebahlo       |
