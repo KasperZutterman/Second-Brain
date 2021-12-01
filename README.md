@@ -13,7 +13,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Andy Byers            | https://notes.ajb.app/                                                         | https://twitter.com/AndyByers21     |
 | Andy Matuschak        | https://notes.andymatuschak.org/                                               | https://twitter.com/andy_matuschak  |
 | Anne-Laure Le Cunff   | https://www.mentalnodes.com/                                                   | https://twitter.com/anthilemoon     |
-| Anshul Khare          | https://anshulkhare.in/                                                        | https://twitter.com/_anshulkhare        |
+| Anshul Khare          | https://anshulkhare.in/                                                        | https://twitter.com/_anshulkhare    |
 | Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   |
 | Anthony Amar          | https://garden.anthonyamar.fr/                                                 |                                     |
 | Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
