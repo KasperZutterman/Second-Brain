@@ -25,6 +25,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ben Robertson         | https://benrobertson.io/notes                                                  | https://twitter.com/benrobertsonio  |
 | Benjamin Lannon       | https://lannonbr.com/garden                                                    | https://twitter.com/lannonbr        |
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                              |                                     |
+| Bhupesh Varshney      | https://bhupesh.gitbook.io/notes/                                              | https://twitter.com/bhupeshimself   |
 | Bill Seitz            | http://webseitz.fluxent.com/wiki/                                              |                                     |
 | Binny V A             | https://notes.binnyva.com/                                                     | https://twitter.com/binnyva         |
 | Brendan Schlagel      | http://brendanschlagel.com/canon/                                              | https://twitter.com/schlagetown     |
