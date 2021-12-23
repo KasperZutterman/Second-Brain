@@ -149,6 +149,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Szymon Kaliski        | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
 | Thilo Maier           | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
 | Todd Grotenhuis       | https://blog.grotenhuis.info/digital-garden/                                   | https://twitter.com/toddgrotenhuis  |
+| Tommi Boom            | https://tommi.space/jam                                                        |                                     |
 | Tom Critchlow         | https://tomcritchlow.com/wiki/                                                 | https://twitter.com/tomcritchlow    |
 | Ton Zĳlstra           | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Tymon Zaniewski       | http://garden.tymon-zaniewski.xyz                                              |                                     |
