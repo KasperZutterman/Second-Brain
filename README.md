@@ -53,7 +53,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Elias Granja          | https://wiki.anarchist.work/                                                   |                                     |
 | Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
-| Gadzhi Kharkharov     | https://kkga.me/tags/note                                                      | https://twitter.com/kkga_           |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
 | Greaby                | https://greaby.github.io/galaxie-gd/                                           | https://twitter.com/greaby_         |
 | Guilherme Carreiro    | https://karreiro.com/wiki/                                                     | https://twitter.com/karreiro_       |
@@ -61,8 +60,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Gwern Branwen         | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
 | Hamel Husain          | https://notes.hamel.dev/                                                       | https://twitter.com/HamelHusain     |
 | Harish Chandra Thuwal | https://github.com/hthuwal/notes                                               |                                     |
-| Henrique Dias         | https://notes.hacdias.com/                                                     | https://twitter.com/hacdias         |
-| Hiran Venugopalan     | https://notes.hiran.in/                                                        | https://twitter.com/hfactor         |
 | Hrishikesh Bhaskaran  | https://wiki.stultus.in                                                        | https://twitter.com/_stultus        |
 | Ian Jones             | https://garden.ianjones.us/                                                    | https://twitter.com/_jonesian       |
 | Jacob Chvatal         | https://wiki.jacob.chvatal.com/                                                | https://twitter.com/jakechvatal     |
@@ -78,13 +75,11 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Joel Chan             | https://joelchan.roam.garden/                                                  | https://twitter.com/JoelChan86      |
 | Joel Hooks            | https://joelhooks.com/                                                         | https://twitter.com/jhooks          |
 | Johackim              | https://johackim.com/                                                          | https://twitter.com/_johackim       |
-| John Otander          | https://johno.com/notes/                                                       | https://twitter.com/4lpine          |
 | John Walker           | http://fourmilab.ch/                                                           | https://twitter.com/fourmilab       |
 | Joschua               | https://joschuasgarden.com/                                                    | https://twitter.com/selfire1        |
 | Josh Buchea           | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Kevin Cunningham      | https://garden.kevincunningham.co.uk                                           | https://www.twitter.com/dolearning  |
-| Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
 | Luciano Strika        | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
 | Lyz                   | https://lyz-code.github.io/blue-book/                                          |                                     |
@@ -94,7 +89,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour        | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
 | Matt                  | https://matt.roam.garden/                                                      |                                     |
-| Max Antonucci         | https://max-antonucci.gitbook.io/study-notebook/                               | https://twitter.com/Maxwell_Dev     |
 | Max Holzheu           | https://digitalgarden.maxholzheu.com/                                          | https://twitter.com/maxholzheu      |
 | Max Stoiber           | https://notes.mxstbr.com/                                                      | https://twitter.com/mxstbr          |
 | Maxime Vaillancourt   | https://maximevaillancourt.com/notes                                           | https://twitter.com/vaillancourtmax |
@@ -102,16 +96,13 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Mike Tannenbaum       | https://tannenbaum.netlify.app/                                                | https://twitter.com/theroyaltbomb   |
 | Milkii Brewster       | https://wiki.thingsandstuff.org/Main_Page                                      |                                     |
 | Mitch Wagner          | http://mitchwagner.com/                                                        | https://twitter.com/mitchwagner     |
-| Nadia Eghbal          | https://nadiaeghbal.com/notes/                                                 | https://twitter.com/nayafia         |
 | Nagarjun Palavalli    | https://nagarjun.co/pensees                                                    | https://twitter.com/palavalli       |
 | Neil Mather           | https://commonplace.doubleloop.net/                                            |                                     |
 | Nick Trombley         | https://barnsworthburning.net/                                                 |                                     |
 | Nikita Voloboev       | https://wiki.nikitavoloboev.xyz/                                               | https://twitter.com/nikitavoloboev  |
-| Noah Trenaman         | https://blog.noahtren.com/note/3acea2e1/                                       | https://twitter.com/noahtren        |
 | Ollie Francis         | https://www.notion.so/818782f2ff0f44ccbc5941e3fd4d0cd0?v=3badd8762a2f424189dc13c6f4f11539 | https://twitter.com/ollie_francis |
 | Oshyan Greene         | https://garden.oshyan.com/                                                     | https://twitter.com/ogreenius       |
 | Paul Batchelor        | https://pbat.ch/wiki/                                                          |                                     |
-| Paul Bricman          | https://paulbricman.com/secondbrain/                                           |                                     |
 | Paul Copplestone      | https://paul.copplest.one/knowledge/                                           | https://twitter.com/kiwicopple      |
 | Paul Scanlon          | https://paulie.dev/posts/                                                      | https://twitter.com/PaulieScanlon   |
 | Pepe García           | https://braindump.pepegar.com/                                                 |                                     |
@@ -119,12 +110,9 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Piero Scaruffi        | https://www.scaruffi.com/index.html                                            | http://twitter.com/pscaruffi        |
 | Piotr Gaczkowski      | https://garden.doomhammer.info                                                 | https://twitter.com/DoomHammerNG    |
 | Piotr Wozniak         | https://supermemo.guru/wiki/Piotr_Wozniak                                      |                                     |
-| Prasanth Karri        | https://prasanthkarri.com/                                                     | https://twitter.com/thisizkp        |
 | Priyansh Sangule      | https://abstractxan.xyz/site/home.html                                         |                                     |
 | Rahul Rajeev          | https://garden.rahulrajeev.net                                                 | https://twitter.com/rahulrajeeev    |
 | Raphael Sprenger      | https://garden.raphaelsprenger.de/                                             |                                     |
-| Rasul Kireev          | https://rasulkireev.com/digital-garden/                                        | https://twitter.com/rasulkireev     |
-| Richard Haines        | https://richardhaines.dev/blog/                                                | https://twitter.com/studio_hungry   |
 | Rob Haisfield         | https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z | https://twitter.com/RobertHaisfield |
 | Rob Lanphier          | https://myndmess.miraheze.org/wiki/User:RobLa                                  | https://twitter.com/robla           |
 | Roman Rey             | https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj                    | https://twitter.com/derrey          |
@@ -136,7 +124,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Salman Ansari         | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
 | Sam Marshall          | https://notes.sjm.codes/                                                       |                                     |
 | Santhosh Thottingal   | https://docs.thottingal.in/                                                    | https://twitter.com/santhoshtr/     |
-| Santi Younger         | https://notes.santiyounger.com/                                                |                                     |
 | Sanyam Kapoor         | https://www.sanyamkapoor.com/kb                                                | https://twitter.com/activatedgeek   |
 | Sarah Hibner          | http://meet-me-in.space/                                                       |                                     |
 | Scott Spence          | https://scottspence.com/garden                                                 | https://twitter.com/spences10       |
@@ -149,7 +136,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Steve Dondley         | https://steve.dondley.com/notes/                                               | https://twitter.com/steve_dondley   |
 | Stian Håklev          | https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr                   | https://twitter.com/houshuang       |
 | Szymon Kaliski        | https://szymonkaliski.com/notes/                                               | https://twitter.com/szymon_k        |
-| Thilo Maier           | https://coding.maier.dev/notes                                                 | https://twitter.com/454de6e         |
 | Todd Grotenhuis       | https://blog.grotenhuis.info/digital-garden/                                   | https://twitter.com/toddgrotenhuis  |
 | Tommi Boom            | https://tommi.space/jam                                                        |                                     |
 | Tom Critchlow         | https://tomcritchlow.com/wiki/                                                 | https://twitter.com/tomcritchlow    |
@@ -159,12 +145,10 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Vladyslav Sitalo      | https://vlad.roam.garden/                                                      | https://twitter.com/VladyslavSitalo |
 | Walter Teng           | https://walterteng.com/garden/                                                 | https://twitter.com/davzoku         |
 | Wayan Jimmy           | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
-| Waylon Walker         | https://waylonwalker.com/notes                                                 | https://twitter.com/_waylonwalker   |
 | Wess Daniels          | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
 | Winnie Lim            | https://winnielim.org/journal/                                                 |                                     |
 | YaoXing Liu           | https://charlesliuyx.github.io/                                                |                                     |
 | Yenly Ma              | https://til.yenly.wtf/                                                         |                                     |
-| Yusuf Parak           | https://ycp.so/                                                                | https://twitter.com/ycpso           |
 |                       | http://okmij.org/ftp/                                                          |                                     |
 |                       | https://anagora.org/                                                           | https://twitter.com/flancian        |
 |                       | https://emsenn.net/                                                            |                                     |
