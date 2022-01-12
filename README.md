@@ -17,7 +17,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Anthony Agbay         | https://walkintheforest.com/                                                   | https://twitter.com/anthony_agbay   |
 | Anthony Amar          | https://garden.anthonyamar.fr/                                                 |                                     |
 | Anton Emelyanov       | https://wiki.ainzzorl.lol/                                                     |                                     |
-| Aquiles Carattino     | https://www.aquiles.me                                                         | https://twitter.com/aquicarattino   |
+| Aquiles Carattino     | https://notes.aquiles.me                                                       | https://twitter.com/aquicarattino   |
 | Aravind Balla         | https://notes.aravindballa.com/                                                | https://twitter.com/aravindballa    |
 | Arne Bahlo            | https://notes.arne.me                                                          | https://twitter.com/arnebahlo       |
 | Azer Koçulu           | https://github.com/azer/notebook                                               |                                     |
@@ -59,6 +59,8 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Gwern Branwen         | https://www.gwern.net/                                                         | https://twitter.com/gwern           |
 | Hamel Husain          | https://notes.hamel.dev/                                                       | https://twitter.com/HamelHusain     |
 | Harish Chandra Thuwal | https://github.com/hthuwal/notes                                               |                                     |
+| Henrique Dias         | https://hacdias.com/notes                                                      | https://twitter.com/hacdias         |
+| Hiran Venugopalan     | https://notes.hiran.in/                                                        | https://twitter.com/hfactor         |
 | Hrishikesh Bhaskaran  | https://wiki.stultus.in                                                        | https://twitter.com/_stultus        |
 | Ian Jones             | https://garden.ianjones.us/                                                    | https://twitter.com/_jonesian       |
 | Jacob Chvatal         | https://wiki.jacob.chvatal.com/                                                | https://twitter.com/jakechvatal     |
