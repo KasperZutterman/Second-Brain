@@ -149,5 +149,4 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 * [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
 * [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
-* [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 * [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
