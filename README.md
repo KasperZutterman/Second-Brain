@@ -178,3 +178,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 # Additional resources:
 
 - Curated [list](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709) of Tools for Thought by [@Steve_Yang331](https://twitter.com/Steve_Yang331)
+* [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
+* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
+* [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
