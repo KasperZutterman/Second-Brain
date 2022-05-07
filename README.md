@@ -85,6 +85,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Josh Buchea           | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
 | Kevin Cunningham      | https://garden.kevincunningham.co.uk                                           | https://www.twitter.com/dolearning  |
+| Kirill Gorbachyonok   | https://github.com/japanese-goblinn/knowledge-base                             | https://twitter.com/japanese_goblin |
 | Lauro Silva           | https://laurosilva.com/welcome-to-my-digital-garden/                           | https://twitter.com/laurosilvacom   |
 | Leon Bambrick         | https://wiki.secretgeek.net/                                                   |                                     |
 | Luciano Strika        | https://strikingloo.github.io/wiki/                                            | https://twitter.com/strikingloo     |
