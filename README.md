@@ -163,6 +163,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Wayan Jimmy           | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
 | Waylon Walker         | https://waylonwalker.com/notes                                                 | https://twitter.com/_waylonwalker   |
 | Wess Daniels          | https://nurselog.online/                                                       | https://twitter.com/cwdaniels       |
+| Whoibrar              | https://notes.whoibrar.com                                                     | https://twitter.com/whoibrar        |
 | Winnie Lim            | https://winnielim.org/journal/                                                 |                                     |
 | YaoXing Liu           | https://charlesliuyx.github.io/                                                |                                     |
 | Yenly Ma              | https://til.yenly.wtf/                                                         |                                     |
