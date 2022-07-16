@@ -75,7 +75,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Jerry Michalski       | https://www.jerrysbrain.com/                                                   | https://twitter.com/jerrymichalski  |
 | Jestem Króliczkiem    | https://beepb00p.xyz/exobrain/                                                 | https://twitter.com/karlicoss       |
 | Jethro Kuan           | https://braindump.jethro.dev/                                                  | https://twitter.com/jethroksy       |
-| Jimmy Briggs          | https://publish.obsidian.md/kaas-published                                     |                                     |
+| Jimmy Briggs          | https://publish.obsidian.md/kaas-published                                     | https://twitter.com/jimbrig2011     |
 | Joel Chan             | https://joelchan.roam.garden/                                                  | https://twitter.com/JoelChan86      |
 | Joel Hooks            | https://joelhooks.com/                                                         | https://twitter.com/jhooks          |
 | Johackim              | https://johackim.com/                                                          | https://twitter.com/_johackim       |
