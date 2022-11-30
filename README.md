@@ -158,6 +158,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Ton Zĳlstra           | https://www.zylstra.org/blog/wiki-frontpage/                                   | https://twitter.com/ton_zylstra     |
 | Tymon Zaniewski       | http://garden.tymon-zaniewski.xyz                                              |                                     |
 | Visakan Veerasamy     | https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI                  | https://twitter.com/visakanv        |
+| Vít Baisa             | https://vit.baisa.cz                                                           | https://twitter.com/vitbaisa        |
 | Vladyslav Sitalo      | https://vlad.roam.garden/                                                      | https://twitter.com/VladyslavSitalo |
 | Walter Teng           | https://walterteng.com/garden/                                                 | https://twitter.com/davzoku         |
 | Wayan Jimmy           | https://notebook.wayanjimmy.xyz/                                               | https://twitter.com/wayanjimmy      |
