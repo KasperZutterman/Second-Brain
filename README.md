@@ -49,7 +49,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Derek Sivers          | https://sivers.org/book                                                        | https://twitter.com/sivers          |
 | Devine Lu Linvega     | https://wiki.xxiivv.com                                                        |                                     |
 | E. Ferreira           | https://github.com/slowernews/notebook                                         |                                     |
-| Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/                                      |                                     |
+| Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/ & https://www.edwinwenink.xyz/zettelkasten/ |                                |
 | Elias Granja          | https://wiki.anarchist.work/                                                   |                                     |
 | Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
