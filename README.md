@@ -146,6 +146,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Shadab Zafar          | https://github.com/dufferzafar/notes                                           | https://twitter.com/dufferzafar     |
 | Shawn Wang            | https://www.swyx.io/writing                                                    | https://twitter.com/swyx            |
 | Shreyas Minocha       | https://wiki.shreyasminocha.me                                                 |                                     |
+| Simon Späti           | https://brain.sspaeti.com                                                      | https://twitter/sspaeti             |
 | Soren Bjornstad       | https://zettelkasten.sorenbjornstad.com/                                       |                                     |
 | Sridhar Ratnakumar    | https://www.srid.ca/                                                           |                                     |
 | Steve Dondley         | https://steve.dondley.com/notes/                                               | https://twitter.com/steve_dondley   |
