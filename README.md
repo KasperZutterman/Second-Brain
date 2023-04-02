@@ -93,6 +93,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | m0wer                 | https://m0wer.github.io/memento/                                               |                                     |
 | Maggie Appleton       | https://maggieappleton.com/garden                                              | https://twitter.com/Mappletons      |
 | Magnus Aasrud         | https://www.kmaasrud.com/brain/                                                | https://twitter.com/kmaasrud        |
+| Marcus Hughes         | https://arbor.jmbhughes.com                                                    |                                     |
 | Markus                | https://re1.dev/wiki/                                                          |                                     |
 | Mathieu Dutour        | https://mathieudutour.github.io/gatsby-digital-garden/                         | https://twitter.com/mathieudutour   |
 | Matt                  | https://matt.roam.garden/                                                      |                                     |
