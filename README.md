@@ -80,6 +80,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Johackim              | https://johackim.com/                                                          | https://twitter.com/_johackim       |
 | John Otander          | https://johno.com/notes/                                                       | https://twitter.com/4lpine          |
 | John Walker           | http://fourmilab.ch/                                                           | https://twitter.com/fourmilab       |
+| Jon Sterling          | https://www.jonmsterling.com/                                                  |                                     |
 | Joschua               | https://joschuasgarden.com/                                                    | https://twitter.com/selfire1        |
 | Josh Buchea           | https://joshbuchea.com/notes                                                   | https://twitter.com/joshbuchea/     |
 | Kahlil Corazo         | https://scrapbox.io/kahlil/                                                    | https://twitter.com/kcorazo         |
