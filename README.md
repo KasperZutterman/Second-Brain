@@ -143,7 +143,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Sanyam Kapoor         | https://www.sanyamkapoor.com/kb                                                | https://twitter.com/activatedgeek   |
 | Sarah Hibner          | http://meet-me-in.space/                                                       |                                     |
 | Scott Spence          | https://scottspence.com/garden                                                 | https://twitter.com/spences10       |
-| Sean Breckenridge     | https://exobrain.sean.fish/                                                    |                                     |
+| Sean Breckenridge     | https://sean.fish/x/                                                           |                                     |
 | Shadab Zafar          | https://github.com/dufferzafar/notes                                           | https://twitter.com/dufferzafar     |
 | Shawn Wang            | https://www.swyx.io/writing                                                    | https://twitter.com/swyx            |
 | Shreyas Minocha       | https://wiki.shreyasminocha.me                                                 |                                     |
