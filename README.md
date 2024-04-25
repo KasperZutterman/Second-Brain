@@ -9,6 +9,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Alan Pestronk         | https://neuromuscular.wustl.edu/alfindex.htm                                   |                                     |
 | Alex Bilson           | https://alexbilson.dev/                                                        |                                     |
 | Anand Sharma          | http://aprilzero.com/                                                          | https://twitter.com/aprilzero       |
+| Andres Estrella       | https://andresestrella.vercel.app/                                             | https://twitter.com/andrestrellaa   |
 | Andrew Tang           | https://tangdrew.com/notes                                                     | https://twitter.com/tangdrew/media  |
 | Andy Byers            | https://notes.ajb.app/                                                         | https://twitter.com/AndyByers21     |
 | Andy Matuschak        | https://notes.andymatuschak.org/                                               | https://twitter.com/andy_matuschak  |
