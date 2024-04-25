@@ -172,6 +172,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Whoibrar              | https://notes.whoibrar.com                                                     | https://twitter.com/whoibrar        |
 | Winnie Lim            | https://winnielim.org/journal/                                                 |                                     |
 | Will Bamberg          | https://www.willbamberg.com/garden/                                            | https://twitter.com/willbamberg     |
+| Xinyang YU            | https://notes.yxy.ninja                                                        |                                     |
 | YaoXing Liu           | https://charlesliuyx.github.io/                                                |                                     |
 | Yenly Ma              | https://til.yenly.wtf/                                                         |                                     |
 | Yusuf Parak           | https://ycp.so/                                                                | https://twitter.com/ycpso           |
