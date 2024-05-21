@@ -52,6 +52,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/ & https://www.edwinwenink.xyz/zettelkasten/ |                                |
 | Elias Granja          | https://wiki.anarchist.work/                                                   |                                     |
 | Fabien Benetou        | https://fabien.benetou.fr/                                                     | https://twitter.com/utopiah         |
+| foreverliketh.is      | https://foreverliketh.is/                                                      | https://indieweb.social/@accordionpolar |
 | Fran Salerno          | https://frandsalerno.github.io/                                                |                                     |
 | Gadzhi Kharkharov     | https://kkga.me/tags/note                                                      | https://twitter.com/kkga_           |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                              | https://twitter.com/gordonbrander   |
