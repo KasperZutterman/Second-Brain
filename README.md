@@ -147,6 +147,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Santi Younger         | https://notes.santiyounger.com/                                                           |                                         |
 | Sanyam Kapoor         | https://www.sanyamkapoor.com/kb                                                           | https://twitter.com/activatedgeek       |
 | Sarah Hibner          | http://meet-me-in.space/                                                                  |                                         |
+| Serge Kazakov          | https://kazaimazai.com/                                                                  |  https://x.com/kazaimazai               |
 | Scott Spence          | https://scottspence.com/garden                                                            | https://twitter.com/spences10           |
 | Sean Breckenridge     | https://sean.fish/x/                                                                      |                                         |
 | Shadab Zafar          | https://github.com/dufferzafar/notes                                                      | https://twitter.com/dufferzafar         |
