@@ -129,6 +129,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Piotr Wozniak         | https://supermemo.guru/wiki/Piotr_Wozniak                                                 |                                         |
 | Prasanth Karri        | https://prasanthkarri.com/                                                                | https://twitter.com/thisizkp            |
 | Priyansh Sangule      | https://abstractxan.xyz/site/home.html                                                    |                                         |
+| purarue               | https://purarue.xyz/x/                                                                    |                                         |
 | Rahul Rajeev          | https://garden.rahulrajeev.net                                                            | https://twitter.com/rahulrajeeev        |
 | Raphael Sprenger      | https://garden.raphaelsprenger.de/                                                        |                                         |
 | Rasul Kireev          | https://rasulkireev.com/digital-garden/                                                   | https://twitter.com/rasulkireev         |
@@ -149,7 +150,6 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Sarah Hibner          | http://meet-me-in.space/                                                                  |                                         |
 | Serge Kazakov          | https://kazaimazai.com/                                                                  |  https://x.com/kazaimazai               |
 | Scott Spence          | https://scottspence.com/garden                                                            | https://twitter.com/spences10           |
-| Sean Breckenridge     | https://sean.fish/x/                                                                      |                                         |
 | Shadab Zafar          | https://github.com/dufferzafar/notes                                                      | https://twitter.com/dufferzafar         |
 | Shawn Wang            | https://www.swyx.io/writing                                                               | https://twitter.com/swyx                |
 | Shreyas Minocha       | https://wiki.shreyasminocha.me                                                            |                                         |
