@@ -183,10 +183,8 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 |                       | https://anagora.org/                                                                      | https://twitter.com/flancian            |
 |                       | https://emsenn.net/                                                                       |                                         |
 |                       | https://lateral.wiki/                                                                     |                                         |
-|                       | https://philosopher.life/                                                                 |                                         |
 |                       | https://sphygm.us/                                                                        |                                         |
 |                       | https://webring.xxiivv.com/                                                               |                                         |
-|                       | https://wiki.waifu.haus/                                                                  |                                         |
 
 # Additional resources:
 
