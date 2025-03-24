@@ -57,6 +57,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Foreverliketh.is      | https://foreverliketh.is/                                                                 | https://indieweb.social/@accordionpolar |
 | Fran Salerno          | https://frandsalerno.github.io/                                                           |                                         |
 | Gadzhi Kharkharov     | https://kkga.me/tags/note                                                                 | https://twitter.com/kkga_               |
+| Gavin Gamboa          | https://gavart.ist                                                                        | https://twitter.com/gavcloud            |
 | Gordon Brander        | http://gordonbrander.com/pattern/                                                         | https://twitter.com/gordonbrander       |
 | Greaby                | https://greaby.github.io/galaxie-gd/                                                      | https://twitter.com/greaby_             |
 | Guilherme Carreiro    | https://karreiro.com/wiki/                                                                | https://twitter.com/karreiro_           |
