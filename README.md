@@ -47,6 +47,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Daniel Mathiot        | https://notes.danielmathiot.tech                                                          |                                         |
 | Danny Yee             | http://danny.oz.au/                                                                       | https://twitter.com/DannyYee            |
 | Dave Gifford          | https://giffmex.org/Welcome.html                                                          | https://twitter.com/giffmex             |
+| Declan Chidlow        | https://vale.rocks                                                                        |                                         |
 | Derek Sivers          | https://sivers.org/book                                                                   | https://twitter.com/sivers              |
 | Devine Lu Linvega     | https://wiki.xxiivv.com                                                                   |                                         |
 | DongDong Chen         | https://garden.oldwinter.top/                                                             |                                         |
