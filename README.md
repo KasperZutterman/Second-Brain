@@ -180,6 +180,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Xinyang YU            | https://notes.yxy.ninja                                                                   |                                         |
 | YaoXing Liu           | https://charlesliuyx.github.io/                                                           |                                         |
 | Yenly Ma              | https://til.yenly.wtf/                                                                    |                                         |
+| Yunus Emre            | https://docs.yemreak.com/                                                                 | https://x.com/yemreak_                  |
 | Yusuf Parak           | https://ycp.so/                                                                           | https://twitter.com/ycpso               |
 |                       | http://okmij.org/ftp/                                                                     |                                         |
 |                       | https://anagora.org/                                                                      | https://twitter.com/flancian            |
