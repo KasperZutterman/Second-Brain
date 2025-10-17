@@ -23,7 +23,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Arne Bahlo            | https://notes.arne.me                                                                     | https://twitter.com/arnebahlo           |
 | Azer Koçulu           | https://github.com/azer/notebook                                                          |                                         |
 | Azlen Elza            | https://notes.azlen.me/g3tibyfv/                                                          | https://twitter.com/azlenelza           |
-| Ben Robertson         | https://benrobertson.io/notes                                                             | https://twitter.com/benrobertsonio      |
+| Ben Robertson         | https://ben.robertson.is/notes                                                             | https://twitter.com/benrobertsonio      |
 | Benjamin Lannon       | https://lannonbr.com/garden                                                               | https://twitter.com/lannonbr            |
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                                         |                                         |
 | Bhavani Ravi          | https://www.bhavaniravi.com/                                                              | https://x.com/bhavaniravi_              |
