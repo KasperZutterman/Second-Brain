@@ -8,6 +8,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Aengus McMillin       | https://aengusmcmillin.com/brain                                                          | http://twitter.com/aengusmcmillin       |
 | Alan Pestronk         | https://neuromuscular.wustl.edu/alfindex.htm                                              |                                         |
 | Alex Bilson           | https://alexbilson.dev/                                                                   |                                         |
+| Alma Nocturna         | https://gvpv12.github.io/                                              |                                         |
 | Anand Sharma          | http://aprilzero.com/                                                                     | https://twitter.com/aprilzero           |
 | Andres Estrella       | https://andresestrella.vercel.app/                                                        | https://twitter.com/andrestrellaa       |
 | Andrew Tang           | https://tangdrew.com/notes                                                                | https://twitter.com/tangdrew/media      |
