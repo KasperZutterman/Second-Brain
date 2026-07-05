@@ -199,3 +199,5 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 * [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
