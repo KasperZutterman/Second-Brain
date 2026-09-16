@@ -120,6 +120,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Nick Trombley         | https://barnsworthburning.net/                                                            |                                         |
 | Nikita Voloboev       | https://wiki.nikitavoloboev.xyz/                                                          | https://twitter.com/nikitavoloboev      |
 | Noah Trenaman         | https://blog.noahtren.com/note/3acea2e1/                                                  | https://twitter.com/noahtren            |
+| Oliver Newth          | https://garden.n3wth.com                                                                  |                                         |
 | Ollie Francis         | https://www.notion.so/818782f2ff0f44ccbc5941e3fd4d0cd0?v=3badd8762a2f424189dc13c6f4f11539 | https://twitter.com/ollie_francis       |
 | Oshyan Greene         | https://garden.oshyan.com/                                                                | https://twitter.com/ogreenius           |
 | Paolo Gutierrez Gabriel      | https://paologabriel.com                                                                |                                         |
