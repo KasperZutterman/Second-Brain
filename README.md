@@ -52,6 +52,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Declan Chidlow        | https://vale.rocks                                                                        |                                         |
 | Derek Sivers          | https://sivers.org/book                                                                   | https://twitter.com/sivers              |
 | Devine Lu Linvega     | https://wiki.xxiivv.com                                                                   |                                         |
+| Diogo Seca            | https://bjjgraph.org/                                                                     |                                         |
 | DongDong Chen         | https://garden.oldwinter.top/                                                             |                                         |
 | E. Ferreira           | https://github.com/slowernews/notebook                                                    |                                         |
 | Edwin Wenink          | https://www.edwinwenink.xyz/etc/blogroll/ & https://www.edwinwenink.xyz/zettelkasten/     |                                         |
